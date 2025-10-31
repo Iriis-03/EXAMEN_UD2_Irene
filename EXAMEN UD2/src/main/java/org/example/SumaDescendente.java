@@ -15,7 +15,7 @@ public class SumaDescendente {
 
         for (int i = 500; i < 100000; i--)
         System.out.println("Suma descendente del número generado" + aleatorio);
-        aleatorio /
+        suma = aleatorio +
 
 
 
